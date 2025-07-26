@@ -43,10 +43,12 @@ This Excel-based analytics project provides a comprehensive view of a coffee sho
 
 ## 📸 Screenshots  
 ### ✅ Dashboard  
-![Dashboard](dashboard.png)
+<img width="623" height="315" alt="Dashboard" src="https://github.com/user-attachments/assets/6e399569-217d-4aa6-a56f-9024c155a72a" />
+
 
 ### ✅ Forecasting Sheet  
-![Forecast](forecast.png)
+<img width="863" height="326" alt="Forecast Predicts 2024 Revenue" src="https://github.com/user-attachments/assets/7dc4ed20-22ca-4f1f-82a6-e0089828a8e3" />
+
 
 ---
 
